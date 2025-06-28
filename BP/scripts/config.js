@@ -1,0 +1,22 @@
+export const pettableMobs = [
+    "minecraft:cat",
+    "minecraft:ocelot",
+    "minecraft:wolf",
+    "minecraft:axolotl",
+    "minecraft:rabbit",
+    "minecraft:fox",
+    "minecraft:sheep",
+    "minecraft:parrot",
+    "minecraft:sniffer",
+    "minecraft:panda",
+    "minecraft:horse",
+    "minecraft:donkey",
+    "minecraft:llama",
+    "minecraft:zombie",
+    "minecraft:spider",
+    "minecraft:skeleton",
+    "minecraft:pig",
+    "minecraft:cow",
+    "minecraft:sniffer",
+    "minecraft:fox"
+];

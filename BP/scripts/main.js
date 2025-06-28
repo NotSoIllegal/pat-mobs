@@ -10,10 +10,12 @@ world.beforeEvents.playerInteractWithEntity.subscribe((event) => {
 
     if (!player.isSneaking) return; //Todo sneaking patting toggle option 
 
-    if (pettableMobs.includes(entity.typeId))
+    if (pettableMobs.includes(entity.typeId)) {
+        event.cancel = true;
         system.run(() => {
             entity.playAnimation("animation.pat");
             entity.runCommand(`execute at @s run particle minecraft:heart_particle ~ ~1 ~`);
             entity.runCommand(`execute at @s run playsound random.pop @a ~ ~ ~`);
         })
+    }
 });

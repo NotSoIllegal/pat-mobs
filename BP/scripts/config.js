@@ -18,5 +18,12 @@ export const pettableMobs = [
     "minecraft:pig",
     "minecraft:cow",
     "minecraft:sniffer",
-    "minecraft:fox"
+    "minecraft:fox",
+    "minecraft:frog",
+    "minecraft:witch",
+    //"minecraft:villager", # on hold
+    "minecraft:turtle",
+    "minecraft:squid",
+    "minecraft:chicken",
+    "minecraft:armadillo"
 ];

@@ -14,7 +14,7 @@ world.beforeEvents.playerInteractWithEntity.subscribe((event) => {
         event.cancel = true;
         system.run(() => {
             entity.playAnimation("animation.pat");
-            entity.runCommand(`execute at @s run particle minecraft:heart_particle ~ ~1 ~`);
+            entity.runCommand(`execute at @s run particle pattmobs:hand ~ ~ ~`);
             entity.runCommand(`execute at @s run playsound random.pop @a ~ ~ ~`);
         })
     }

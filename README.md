@@ -1,6 +1,6 @@
 # Pat Mobs
 
-A simple MCBE addon, as alternative of [PatPat mod](https://www.curseforge.com/minecraft/mc-mods/patpat.
+A simple MCBE addon, as alternative of [PatPat mod](https://www.curseforge.com/minecraft/mc-mods/patpat).
 
 # Requirments:
 + MCBE 1.21.70

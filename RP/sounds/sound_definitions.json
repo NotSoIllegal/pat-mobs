@@ -1,4 +1,16 @@
 {
 	"format_version": "1.14.0",
-	"sound_definitions": {}
+	"sound_definitions": {
+		"pattmobs:pat": {
+			"category": "neutral",
+			"sounds": [
+				{
+					"name": "sounds/pat/pat",
+					"load_on_low_memory": true
+				},
+				"sounds/pat/pat1",
+				"sounds/pat/pat2"
+			]
+		}
+	}
 }

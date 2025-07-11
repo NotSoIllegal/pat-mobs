@@ -24,7 +24,7 @@
 		"uuid": "45623281-8347-4537-87e4-6eb6b3586d32",
 		"version": [
 			1,
-			0,
+			1,
 			0
 		]
 	},
@@ -34,7 +34,7 @@
 			"uuid": "e9b467f7-13b9-4b90-a0c8-1d343b4d16a2",
 			"version": [
 				1,
-				0,
+				1,
 				0
 			]
 		},
@@ -45,7 +45,7 @@
 			"entry": "scripts/main.js",
 			"version": [
 				1,
-				0,
+				1,
 				0
 			]
 		}
@@ -62,10 +62,6 @@
 		{
 			"module_name": "@minecraft/server",
 			"version": "1.10.0"
-		},
-		{
-			"module_name": "@minecraft/server-gametest",
-			"version": "1.0.0-beta"
 		},
 		{
 			"module_name": "@minecraft/server-ui",

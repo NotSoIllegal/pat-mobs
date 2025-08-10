@@ -108,4 +108,4 @@ export const pattableMobs = {
 
 }
 
-export var forceSneakForPat = true;
+//export var forceSneakForPat = true;

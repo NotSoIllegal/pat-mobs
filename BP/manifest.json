@@ -38,5 +38,23 @@
 				0
 			]
 		}
+	],
+	"dependencies": [
+		{
+			"uuid": "77ac7d98-c767-4dd3-a3b7-454c951109d4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.10.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.2.0"
+		}
 	]
 }

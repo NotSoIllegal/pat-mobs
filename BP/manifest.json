@@ -6,7 +6,7 @@
 		],
 		"generated_with": {
 			"bridge": [
-				"2.7.46"
+				"2.7.48"
 			],
 			"dash": [
 				"0.11.7"
@@ -21,51 +21,22 @@
 			21,
 			70
 		],
-		"uuid": "45623281-8347-4537-87e4-6eb6b3586d32",
+		"uuid": "6a8799b5-f416-4a35-9b54-bd646f110d3c",
 		"version": [
 			1,
-			1,
+			0,
 			0
 		]
 	},
 	"modules": [
 		{
 			"type": "data",
-			"uuid": "e9b467f7-13b9-4b90-a0c8-1d343b4d16a2",
-			"version": [
-				1,
-				1,
-				0
-			]
-		},
-		{
-			"type": "script",
-			"language": "javascript",
-			"uuid": "d559e682-b4a2-49e5-87ae-77caaac776f4",
-			"entry": "scripts/main.js",
-			"version": [
-				1,
-				1,
-				0
-			]
-		}
-	],
-	"dependencies": [
-		{
-			"uuid": "77ac7d98-c767-4dd3-a3b7-454c951109d4",
+			"uuid": "9553b85c-e131-4d19-a24f-da88458fd213",
 			"version": [
 				1,
 				0,
 				0
 			]
-		},
-		{
-			"module_name": "@minecraft/server",
-			"version": "1.10.0"
-		},
-		{
-			"module_name": "@minecraft/server-ui",
-			"version": "1.2.0"
 		}
 	]
 }
